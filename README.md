@@ -1,5 +1,7 @@
 # GreenThread: Sustainable Fashion Tracker
 
+** Please go through the report for more details. I am currently working on deploying the project **
+
 **GreenThread** is an open-source platform designed to empower consumers with transparent, data-driven insights into the environmental impact of fashion brands. It aggregates sustainability metrics, visualizes environmental footprints, and recommends eco-friendly alternatives.
 
 ---
